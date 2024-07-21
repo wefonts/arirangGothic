@@ -1,5 +1,5 @@
 # arirangGothic
-밀양아리랑고딕체
+밀양 아리랑 고딕체
 
 <pre>
 @font-face {
